@@ -1,0 +1,72 @@
+id_player_id,player,team,main_position,actions,vaep,offensive,minutes,matches,goals,assists,np_xG,vaep_per90,offensive_per90,GA_per90,ci_low,ci_high,rank_vaep,rank_GA,undervalued_gap,hidden_talent,confidence
+39624.0,Francisco Fernandes Conceição,Portugal,Right Attacking Midfield,304,1.73,1.8,192,4,1,0,0.75,0.811,0.844,0.469,0.272,3.971,1,20,19,True,Low
+28032.0,Ivan Schranz,Slovakia,Right Wing,197,2.842,2.846,333,4,3,0,0.88,0.768,0.769,0.811,0.141,1.238,2,6,4,False,Low
+40724.0,Florian Wirtz,Germany,Left Wing,425,1.922,1.985,290,5,2,0,0.58,0.596,0.616,0.621,0.112,1.001,3,13,10,False,Low
+15582.0,Donyell Malen,Netherlands,Right Wing,167,1.288,1.439,199,4,2,0,1.51,0.582,0.651,0.905,-0.132,1.616,4,4,0,False,Low
+39565.0,Jamal Musiala,Germany,Right Wing,483,2.626,2.549,425,5,3,0,0.9,0.556,0.54,0.635,0.102,1.036,5,12,7,False,High
+16532.0,Daniel Olmo Carvajal,Spain,Center Attacking Midfield,462,2.285,2.283,450,6,3,2,1.38,0.457,0.457,1.0,-0.048,0.957,6,2,-4,False,Low
+20750.0,Cody Mathès Gakpo,Netherlands,Left Wing,353,2.644,2.703,546,6,3,1,0.88,0.436,0.446,0.659,-0.049,0.892,7,11,4,False,Low
+8546.0,Niclas Füllkrug,Germany,Center Forward,106,0.705,0.74,187,5,2,0,0.91,0.339,0.356,0.963,-0.538,1.904,8,3,-5,False,Low
+5545.0,Breel-Donald Embolo,Switzerland,Center Forward,193,1.136,1.336,309,5,2,0,1.57,0.331,0.389,0.583,-0.152,1.44,9,16,7,False,Low
+32030.0,Nedim Bajrami,Albania,Left Wing,188,0.868,0.873,253,3,1,0,0.2,0.309,0.311,0.356,-0.061,0.897,10,33,23,True,Low
+68574.0,Nicholas Williams Arthuer,Spain,Left Wing,562,1.647,1.807,502,6,2,1,0.95,0.295,0.324,0.538,-0.058,0.651,11,18,7,False,Low
+38229.0,Khvicha Kvaratskhelia,Georgia,Left Center Forward,274,1.119,1.095,351,4,1,0,0.55,0.287,0.281,0.256,0.049,0.671,12,40,28,True,Low
+316046.0,Lamine Yamal Nasraoui Ebana,Spain,Right Wing,556,1.616,1.88,514,7,1,4,1.59,0.283,0.329,0.875,-0.007,0.579,13,5,-8,False,Low
+22084.0,Bukayo Saka,England,Right Wing,639,1.973,2.009,641,7,1,0,0.52,0.277,0.282,0.14,0.058,0.597,14,49,35,True,High
+3193.0,Bernardo Mota Veiga de Carvalho e Silva,Portugal,Center Attacking Midfield,546,1.154,1.119,430,4,1,0,0.75,0.241,0.234,0.209,-0.107,0.78,15,46,31,True,Low
+30401.0,Ruben Vargas,Switzerland,Left Attacking Midfield,277,0.773,0.838,309,5,1,1,0.69,0.225,0.244,0.583,-0.127,0.684,16,16,0,False,Low
+3089.0,Kevin De Bruyne,Belgium,Center Attacking Midfield,491,0.932,1.03,379,4,1,0,0.88,0.221,0.245,0.237,-0.045,0.641,17,43,26,True,Low
+5204.0,Bruno Miguel Borges Fernandes,Portugal,Center Attacking Midfield,590,0.911,1.001,383,4,1,0,1.22,0.214,0.235,0.235,0.013,0.425,18,44,26,True,High
+22097.0,Randal Kolo Muani,France,Center Forward,113,0.414,0.475,207,4,1,0,0.45,0.18,0.206,0.435,-0.195,0.708,19,25,6,False,Low
+8518.0,Marcel Sabitzer,Austria,Left Wing,359,0.769,0.809,385,4,1,0,0.67,0.18,0.189,0.234,-0.081,0.55,20,45,25,True,Low
+3620.0,Scott McTominay,Scotland,Center Attacking Midfield,150,0.572,0.639,288,3,1,0,0.25,0.179,0.2,0.312,-0.242,0.767,21,37,16,True,Low
+21209.0,Dominik Szoboszlai,Hungary,Right Attacking Midfield,308,0.547,0.648,291,3,0,1,0.22,0.169,0.2,0.309,-0.117,0.473,22,38,16,True,Low
+5460.0,Andrej Kramarić,Croatia,Left Wing,210,0.453,0.52,243,3,1,0,0.93,0.168,0.193,0.37,-0.246,0.804,23,32,9,False,Low
+39167.0,Xavi Simons,Netherlands,Center Attacking Midfield,462,0.815,0.85,468,6,1,3,0.55,0.157,0.163,0.769,-0.104,0.489,24,8,-16,False,Low
+116587.0,Arda Güler,Turkey,Center Forward,452,0.577,0.64,353,5,1,2,0.33,0.147,0.163,0.765,-0.387,0.619,25,9,-16,False,Low
+6685.0,Mikel Oyarzabal Ugarte,Spain,Center Forward,163,0.351,0.388,229,7,1,1,0.6,0.138,0.153,0.786,-0.199,0.99,26,7,-19,False,Low
+5477.0,Ousmane Dembélé,France,Right Wing,430,0.542,0.766,361,5,0,0,0.46,0.135,0.191,0.0,0.066,0.204,27,50,23,True,High
+30714.0,Jude Bellingham,England,Center Attacking Midfield,868,0.94,1.022,687,7,2,1,0.66,0.123,0.134,0.393,-0.168,0.432,28,28,0,False,Low
+33234.0,Georges Mikautadze,Georgia,Right Center Forward,221,0.466,0.625,356,4,3,1,0.46,0.118,0.158,1.011,-0.029,0.314,29,1,-28,False,Low
+19316.0,Roland Sallai,Hungary,Left Attacking Midfield,207,0.29,0.276,284,3,0,1,0.83,0.092,0.088,0.317,0.008,0.247,30,36,6,False,Low
+6963.0,Lorenzo Pellegrini,Italy,Left Wing,224,0.185,0.166,220,4,0,1,0.5,0.076,0.068,0.409,-0.181,0.231,31,27,-4,False,Low
+38975.0,Georgiy Sudakov,Ukraine,Center Attacking Midfield,278,0.227,0.215,271,3,0,0,0.43,0.075,0.071,0.0,0.002,0.164,32,50,18,True,Low
+30486.0,Pedro González López,Spain,Center Attacking Midfield,227,0.119,0.154,186,4,0,1,0.85,0.058,0.074,0.484,-0.189,0.485,33,19,-14,False,Low
+7156.0,Federico Chiesa,Italy,Right Wing,287,0.169,0.262,274,4,0,0,0.25,0.055,0.086,0.0,-0.042,0.221,34,50,16,True,Low
+3043.0,Christian Dannemann Eriksen,Denmark,Left Attacking Midfield,430,0.183,0.258,357,4,1,0,0.84,0.046,0.065,0.252,-0.265,0.544,35,41,6,False,Low
+10287.0,İlkay Gündoğan,Germany,Center Attacking Midfield,368,0.199,0.254,390,5,1,1,0.75,0.046,0.059,0.462,-0.241,0.402,36,22,-14,False,Low
+134209.0,Barış Alper Yılmaz,Turkey,Right Wing,312,0.158,0.243,480,5,0,0,0.35,0.03,0.046,0.0,-0.091,0.201,37,50,13,False,Low
+41186.0,Jasir Asani,Albania,Right Wing,124,0.057,0.106,210,3,0,1,0.06,0.025,0.045,0.429,-0.084,0.076,38,26,-12,False,Low
+31193.0,Denis Mihai Drăguş,Romania,Center Forward,166,0.061,0.241,292,4,1,0,1.1,0.019,0.074,0.308,-0.193,0.359,39,39,0,False,Low
+9974.0,John McGinn,Scotland,Right Attacking Midfield,115,0.035,0.062,230,3,0,0,0.0,0.014,0.024,0.0,-0.049,0.104,40,50,10,False,Low
+3477.0,Álvaro Borja Morata Martín,Spain,Center Forward,284,0.06,0.255,455,7,1,0,1.57,0.012,0.05,0.198,-0.297,0.356,41,47,6,False,Low
+24977.0,Christoph Baumgartner,Austria,Center Attacking Midfield,291,0.014,0.079,308,4,1,1,1.55,0.004,0.023,0.584,-0.706,0.982,42,15,-27,False,Low
+23650.0,Jeremy Doku,Belgium,Left Wing,374,0.007,0.177,323,4,0,0,0.26,0.002,0.049,0.0,-0.083,0.051,43,50,7,False,Low
+7975.0,Lukáš Haraslín,Slovakia,Left Wing,184,0.005,-0.005,264,4,0,1,0.43,0.002,-0.002,0.341,-0.164,0.162,44,35,-9,False,Low
+18360.0,Rafael Alexandre Conceição Leão,Portugal,Left Wing,280,-0.017,0.002,287,4,0,0,0.18,-0.005,0.001,0.0,-0.184,0.186,45,50,5,False,Low
+10955.0,Harry Kane,England,Center Forward,285,-0.069,0.047,609,7,3,0,2.27,-0.01,0.007,0.443,-0.264,0.366,46,24,-22,False,Low
+151813.0,Kenan Yildiz,Turkey,Left Wing,292,-0.078,-0.009,351,5,0,0,0.59,-0.02,-0.002,0.0,-0.08,0.048,47,50,3,False,Low
+3009.0,Kylian Mbappé Lottin,France,Left Wing,476,-0.198,-0.113,477,5,1,1,1.72,-0.037,-0.021,0.377,-0.16,0.079,48,31,-17,False,Low
+50436.0,Fabian Rieder,Switzerland,Right Attacking Midfield,195,-0.184,-0.166,229,5,0,0,0.01,-0.072,-0.065,0.0,-0.169,0.082,49,50,1,False,Low
+3053.0,Leroy Sané,Germany,Right Wing,201,-0.182,-0.146,218,5,0,0,0.28,-0.075,-0.06,0.0,-0.229,0.018,50,50,0,False,Low
+38759.0,Benjamin Šeško,Slovenia,Left Center Forward,194,-0.358,-0.298,362,4,0,0,0.84,-0.089,-0.074,0.0,-0.134,-0.057,51,50,-1,False,Low
+2988.0,Memphis Depay,Netherlands,Center Forward,388,-0.462,-0.29,466,6,1,1,1.95,-0.089,-0.056,0.386,-0.234,0.054,52,29,-23,False,Low
+10992.0,Gianluca Scamacca,Italy,Center Forward,118,-0.295,-0.273,261,4,0,0,0.53,-0.102,-0.094,0.0,-0.199,-0.023,53,50,-3,False,Low
+4354.0,Phil Foden,England,Left Wing,787,-0.751,-0.661,625,7,0,0,0.75,-0.108,-0.095,0.0,-0.153,-0.066,54,50,-4,False,Low
+22212.0,Orkun Kökçü,Turkey,Center Attacking Midfield,274,-0.32,-0.317,235,4,0,1,0.8,-0.123,-0.121,0.383,-0.3,0.049,55,30,-25,False,Low
+12921.0,Barnabás Varga,Hungary,Center Forward,110,-0.371,-0.232,256,3,1,0,0.94,-0.13,-0.082,0.352,-0.513,0.286,56,34,-22,False,Low
+43976.0,David Strelec,Slovakia,Center Forward,107,-0.326,-0.296,194,4,0,1,0.63,-0.151,-0.137,0.464,-0.299,-0.044,57,21,-36,False,Low
+9466.0,Che Adams,Scotland,Center Forward,103,-0.387,-0.225,209,3,0,0,0.12,-0.166,-0.097,0.0,-0.345,-0.003,58,50,-8,False,Low
+3325.0,Marko Arnautović,Austria,Center Forward,151,-0.543,-0.529,293,4,1,1,0.79,-0.167,-0.163,0.614,-0.299,-0.043,59,14,-45,False,Low
+18015.0,Dušan Vlahović,Serbia,Left Attacking Midfield,98,-0.406,-0.424,186,3,0,0,0.27,-0.196,-0.205,0.0,-0.416,-0.012,60,50,-10,False,Low
+31866.0,Andraž Šporar,Slovenia,Right Center Forward,153,-0.772,-0.721,348,4,0,0,1.25,-0.2,-0.186,0.0,-0.421,-0.044,61,50,-11,False,Low
+21261.0,Jonas Older Wind,Denmark,Right Center Forward,173,-0.445,-0.485,198,4,0,1,0.38,-0.202,-0.22,0.455,-0.326,-0.064,62,23,-39,False,Low
+25079.0,Artem Dovbyk,Ukraine,Center Forward,104,-0.574,-0.555,254,3,0,0,0.55,-0.203,-0.197,0.0,-0.446,-0.085,63,50,-13,False,Low
+3289.0,Romelu Lukaku Menama,Belgium,Center Forward,157,-0.858,-0.805,374,4,0,1,1.75,-0.206,-0.194,0.241,-0.277,-0.139,64,42,-22,False,Low
+34904.0,Róbert Boženík,Slovakia,Center Forward,124,-0.588,-0.502,214,4,0,0,0.12,-0.247,-0.211,0.0,-0.377,-0.072,65,50,-15,False,Low
+5487.0,Antoine Griezmann,France,Center Attacking Midfield,391,-1.29,-1.087,413,6,0,0,1.52,-0.281,-0.237,0.0,-0.62,0.008,66,50,-16,False,Low
+4269.0,Aleksandar Mitrović,Serbia,Center Forward,137,-0.886,-0.864,251,3,0,0,1.15,-0.318,-0.31,0.0,-0.467,-0.187,67,50,-17,False,Low
+5207.0,Cristiano Ronaldo dos Santos Aveiro,Portugal,Center Forward,257,-1.901,-1.85,495,5,0,1,2.19,-0.346,-0.336,0.182,-0.656,-0.129,68,48,-20,False,Low
+2972.0,Marcus Thuram,France,Center Forward,156,-1.175,-1.133,269,4,0,0,1.18,-0.393,-0.379,0.0,-0.812,-0.122,69,50,-19,False,Low
+51672.0,Rasmus Winther Højlund,Denmark,Center Forward,156,-1.337,-1.261,286,4,0,0,1.1,-0.421,-0.397,0.0,-0.543,-0.221,70,50,-20,False,Low
+8966.0,Kai Havertz,Germany,Center Forward,304,-1.928,-1.803,398,5,2,1,2.21,-0.436,-0.408,0.678,-0.694,-0.174,71,10,-61,False,Low

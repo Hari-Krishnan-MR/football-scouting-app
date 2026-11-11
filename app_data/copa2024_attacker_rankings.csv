@@ -1,0 +1,45 @@
+id_player_id,player,team,main_position,actions,vaep,offensive,minutes,matches,goals,assists,np_xG,vaep_per90,offensive_per90,GA_per90,ci_low,ci_high,rank_vaep,rank_GA,undervalued_gap,hidden_talent,confidence
+11456.0,Lautaro Javier Martínez,Argentina,Center Forward,151,3.18,3.296,245,6,5,0,2.89,1.168,1.211,1.837,0.243,2.406,1,1,0,False,Low
+18395.0,Vinícius José Paixão de Oliveira Júnior,Brazil,Left Wing,226,1.472,1.505,258,3,2,0,0.73,0.513,0.525,0.698,-0.108,1.434,2,4,2,False,Low
+5503.0,Lionel Andrés Messi Cuccittini,Argentina,Right Center Forward,408,2.24,2.398,445,5,1,1,2.05,0.453,0.485,0.404,0.151,0.708,3,15,12,True,High
+44305.0,César Rodolfo Blackman Camarena,Panama,Right Wing,156,0.942,0.952,198,3,1,0,0.18,0.428,0.433,0.455,-0.033,1.456,4,13,9,True,Low
+5695.0,James David Rodríguez Rubio,Colombia,Center Attacking Midfield,586,1.948,2.054,464,6,1,6,0.33,0.378,0.398,1.358,0.253,0.525,5,2,-3,False,High
+23640.0,Jonathan David,Canada,Center Attacking Midfield,347,1.717,1.762,472,6,2,0,1.34,0.327,0.336,0.381,-0.021,0.98,6,17,11,True,Low
+29560.0,Julián Álvarez,Argentina,Left Center Forward,167,1.117,1.15,353,5,2,0,1.54,0.285,0.293,0.51,-0.048,0.666,7,10,3,False,Low
+35785.0,Eduard Alexander Bello Gil,Venezuela,Right Wing,197,0.904,0.91,295,4,2,0,0.53,0.276,0.278,0.61,-0.141,0.87,8,6,-2,False,Low
+35492.0,Maximiliano Javier Araújo Vilches,Uruguay,Left Wing,289,1.408,1.547,464,6,2,1,0.9,0.273,0.3,0.582,-0.042,0.644,9,8,-1,False,Low
+10595.0,Raphael Dias Belloli,Brazil,Right Wing,253,0.75,0.808,268,4,1,0,0.84,0.252,0.271,0.336,-0.199,0.601,10,22,12,True,Low
+3349.0,Michail Antonio,Jamaica,Center Forward,151,0.673,0.863,241,3,1,0,0.48,0.251,0.322,0.373,-0.133,0.777,11,18,7,False,Low
+8246.0,Christian Pulisic,United States,Left Wing,246,0.774,0.862,284,3,1,1,0.37,0.245,0.273,0.634,-0.308,0.567,12,5,-7,False,Low
+47112.0,Julio César Enciso Espínola,Paraguay,Center Attacking Midfield,305,0.605,0.736,259,3,1,0,0.66,0.21,0.256,0.347,-0.017,0.625,13,21,8,False,Low
+40211.0,Jeremy Leonel Sarmiento Morante,Ecuador,Left Wing,212,0.711,0.762,305,4,1,0,0.39,0.21,0.225,0.295,-0.16,0.976,14,24,10,True,Low
+26152.0,Jacob Shaffelburg,Canada,Left Wing,244,0.793,0.887,363,6,1,1,0.33,0.197,0.22,0.496,-0.163,0.705,15,12,-3,False,Low
+91089.0,José Fajardo Nelson,Panama,Center Forward,159,0.418,0.425,298,4,2,0,0.8,0.126,0.128,0.604,-0.298,0.804,16,7,-9,False,Low
+348757.0,Kevin José Rodríguez Cortez,Ecuador,Center Forward,133,0.295,0.312,244,4,1,0,0.12,0.109,0.115,0.369,-0.319,1.589,17,19,2,False,Low
+28729.0,Diego Nicolás De La Cruz Arcosa,Uruguay,Center Attacking Midfield,349,0.387,0.483,356,5,0,2,0.18,0.098,0.122,0.506,-0.002,0.244,18,11,-7,False,Low
+384888.0,Ray Kendry Páez Andrade,Ecuador,Center Attacking Midfield,259,0.319,0.332,307,4,1,0,0.88,0.093,0.097,0.293,-0.056,0.286,19,25,6,False,Low
+27158.0,Luis Fernando Díaz Marulanda,Colombia,Left Center Forward,417,0.448,0.54,515,6,2,0,0.65,0.078,0.094,0.35,-0.18,0.449,20,20,0,False,Low
+25115.0,Yeferson Julio Soteldo Martínez,Venezuela,Left Wing,286,0.209,0.25,280,4,0,0,0.2,0.067,0.08,0.0,0.033,0.104,21,26,5,False,Low
+8817.0,Jhon Andrés Córdoba Copete,Colombia,Right Center Forward,190,0.289,0.418,421,6,2,0,1.37,0.062,0.089,0.428,-0.348,0.508,22,14,-8,False,Low
+32478.0,Darwin Gabriel Núñez Ribeiro,Uruguay,Center Forward,261,0.075,0.162,483,6,2,1,1.86,0.014,0.03,0.559,-0.29,0.268,23,9,-14,False,Low
+87449.0,Damián Josué Bobadilla Benítez,Paraguay,Right Wing,200,0.006,-0.019,205,3,0,0,0.17,0.003,-0.009,0.0,-0.099,0.101,24,26,2,False,Low
+5525.0,Édison Michael Flores Peralta,Peru,Left Center Forward,97,-0.016,0.038,186,3,0,0,0.06,-0.008,0.018,0.0,-0.176,0.216,25,26,1,False,Low
+336796.0,Miguel Ángel Terceros,Bolivia,Right Attacking Midfield,182,-0.088,0.01,196,3,0,0,0.32,-0.041,0.004,0.0,-0.096,0.039,26,26,0,False,Low
+30944.0,Víctor Alejandro Dávila Zavala,Chile,Left Wing,160,-0.111,-0.087,234,3,0,0,0.27,-0.043,-0.033,0.0,-0.156,0.053,27,26,-1,False,Low
+27317.0,Eduardo Jesús Vargas Rojas,Chile,Center Forward,109,-0.096,-0.035,195,3,0,0,0.0,-0.045,-0.016,0.0,-0.086,0.03,28,26,-2,False,Low
+4041.0,José Salomón Rondón Giménez,Venezuela,Center Forward,195,-0.199,-0.121,338,4,3,1,1.53,-0.053,-0.032,1.065,-0.285,0.154,29,3,-26,False,Low
+3312.0,Demarai Gray,Jamaica,Left Wing,125,-0.133,-0.087,204,3,0,0,0.1,-0.059,-0.038,0.0,-0.128,0.106,30,26,-4,False,Low
+154895.0,Warren Steven Madrigal Molina,Costa Rica,Right Wing,95,-0.14,-0.11,191,3,0,0,0.06,-0.066,-0.052,0.0,-0.089,-0.015,31,26,-5,False,Low
+16459.0,Cyle Larin,Canada,Center Forward,214,-0.397,-0.289,399,5,0,0,0.63,-0.089,-0.065,0.0,-0.3,0.133,32,26,-6,False,Low
+36288.0,Facundo Pellistri Rebollo,Uruguay,Right Wing,263,-0.47,-0.227,456,6,1,1,1.01,-0.093,-0.045,0.395,-0.265,0.045,33,16,-17,False,Low
+7143.0,Gianluca Lapadula Vargas,Peru,Right Center Forward,81,-0.213,-0.162,203,3,0,0,0.5,-0.095,-0.072,0.0,-0.195,0.085,34,26,-8,False,Low
+16120.0,Richie Laryea,Canada,Right Wing,253,-0.397,-0.153,376,6,0,0,0.14,-0.095,-0.037,0.0,-0.261,0.032,35,26,-9,False,Low
+5637.0,Edgar Yoel Bárcenas Herrera,Panama,Left Wing,342,-0.44,-0.395,370,4,0,0,0.38,-0.107,-0.096,0.0,-0.27,0.002,36,26,-10,False,Low
+31455.0,Shamar Nicholson,Jamaica,Center Forward,82,-0.279,-0.287,201,3,0,0,0.5,-0.125,-0.128,0.0,-0.216,-0.041,37,26,-11,False,Low
+113717.0,Carmelo Algarañaz Añez,Bolivia,Center Forward,102,-0.419,-0.284,203,3,0,0,0.01,-0.186,-0.126,0.0,-0.356,-0.151,38,26,-12,False,Low
+15452.0,Carlos Uriel Antuna Romero,Mexico,Right Wing,163,-0.403,-0.398,180,3,0,0,0.09,-0.202,-0.199,0.0,-0.83,0.116,39,26,-13,False,Low
+25104.0,Rodrygo Silva de Goes,Brazil,Center Forward,297,-0.764,-0.682,330,4,0,0,0.9,-0.208,-0.186,0.0,-0.363,-0.039,40,26,-14,False,Low
+22600.0,Lucas Tolentino Coelho de Lima,Brazil,Center Attacking Midfield,337,-0.765,-0.729,300,4,1,0,0.65,-0.229,-0.219,0.3,-0.48,-0.031,41,23,-18,False,Low
+3385.0,Alexis Alejandro Sánchez Sánchez,Chile,Center Attacking Midfield,246,-0.776,-0.694,256,3,0,0,0.64,-0.273,-0.244,0.0,-0.483,-0.129,42,26,-16,False,Low
+28559.0,Enner Remberto Valencia Lastra,Ecuador,Center Forward,90,-1.011,-1.003,196,3,0,0,0.11,-0.464,-0.46,0.0,-1.124,0.078,43,26,-17,False,Low
+31053.0,Santiago Tomás Giménez,Mexico,Center Forward,101,-1.37,-1.279,225,3,0,0,1.03,-0.548,-0.511,0.0,-0.839,-0.196,44,26,-18,False,Low
